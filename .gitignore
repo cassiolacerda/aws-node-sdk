@@ -4,3 +4,6 @@
 
 # ignore packages installed by npm
 node_modules
+
+# ignore cmd command examples
+.cmd
